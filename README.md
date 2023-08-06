@@ -1,5 +1,15 @@
 # Symfony Easyadmin Application
 
+This Application built an Easyadmin Backend.
+
+### Features
+
+- A Guestbook with Entities Conferences and Comments
+- Authentification for different Roles
+- User Administration
+- Searching and filtering and pagination for the datasets
+- Image upload
+
 ## Getting the Project
 
 To install clone the github repository
@@ -53,3 +63,12 @@ Access the login screen
 ```php
 http://<your virtualhost>/login
 ```
+
+### Screenshot - Conferences
+
+![Conferences](Conferences.png)
+
+
+### Screenshot - Comments
+
+![Comments](Comments.png)
