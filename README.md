@@ -61,7 +61,7 @@ You can create a virtualhost like I do
 
 Access the login screen
 ```php
-http://<your virtualhost>/login
+http://e.g. symfony-guestbook.local.com/login
 ```
 
 ### Screenshot - Conferences
