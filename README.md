@@ -4,10 +4,10 @@ This Application built an Easyadmin Backend.
 
 ### Features
 
-- A Guestbook with Entities Conferences and Comments
-- Authentification for different Roles
+- A Guestbook with Entities Conferences, Comments and Users
+- User Authentification for different Roles
 - User Administration
-- Searching and filtering and pagination for the datasets
+- Searching, filtering and pagination for the datasets
 - Image upload
 
 ## Getting the Project
