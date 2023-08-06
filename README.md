@@ -1,0 +1,1 @@
+# Symfony Easyadmin Application
